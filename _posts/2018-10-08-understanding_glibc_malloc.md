@@ -1,6 +1,6 @@
 ---
 layout: post
-title: [번역]Understanding glibc malloc
+title: Understanding glibc malloc 번역
 tags: [system, heap, translate]
 ---
 
