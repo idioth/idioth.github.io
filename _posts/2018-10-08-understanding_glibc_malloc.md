@@ -2,7 +2,6 @@
 layout: post
 title: Understanding glibc malloc 번역
 tags: [system, heap, translate]
-categories : [pwnable]
 comments : true
 ---
 
