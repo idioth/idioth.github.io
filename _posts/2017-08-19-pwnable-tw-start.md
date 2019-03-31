@@ -2,6 +2,7 @@
 layout: post
 title: pwnable.tw - start Write Up
 tags: [pwnable, writeup, wargame]
+comments : true
 ---
 
 

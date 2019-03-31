@@ -2,6 +2,7 @@
 layout: post
 title: Understanding glibc malloc 번역
 tags: [system, heap, translate]
+comments : true
 ---
 
 원문 링크 : https://sploitfun.wordpress.com/2015/02/10/understanding-glibc-malloc/
