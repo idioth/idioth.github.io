@@ -5,7 +5,7 @@ tags: [system, heap, translate]
 comments : true
 ---
 
-원문 링크 : https://sploitfun.wordpress.com/2015/02/10/understanding-glibc-malloc/
+[원문 링크]
 
 
 
@@ -492,6 +492,7 @@ remainder chunk는 새로운 top이 된다. 만약 top chunk의 크기가 유저
 
 ---
 
+[원문 링크]: https://sploitfun.wordpress.com/2015/02/10/understanding-glibc-malloc/
 [링크]: https://sourceware.org/ml/libc-alpha/2014-09/msg00088.html
 [ptmalloc2]: http://www.malloc.de/en/
 [dlmalloc]: http://g.oswego.edu/dl/html/malloc.html
